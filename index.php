@@ -40,7 +40,7 @@
                             <input type="text" 
                              name="password" 
                              id="dobinput"
-                             placeholder="dd-mm-yyyy"
+                             placeholder="dd/mm/yyyy"
                              class="dobinput"
                             />
                         </label>
